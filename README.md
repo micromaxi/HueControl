@@ -8,7 +8,8 @@ HueControl is a python application to control your Philips Hue bridge and lights
 See http://www.meethue.com for more information about these products. It is based on cherrypy, so it will
 serve a webpages with information about the lights and options to control them.
 
-HueControl also is a framework for you to create your own plugins.
+HueControl also is a framework for you to create your own plugins. You can also install this quite easily on a
+raspberry pi, just make sure you have git and python installed.
 
 Dependencies
 ------------
